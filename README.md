@@ -3,3 +3,6 @@
 This project demonstrates web scraping techniques using BeautifulSoup and requests to extract information about the 100 largest companies in the United States from Wikipedia. The data is then analyzed and visualized using Pandas and Matplotlib.
 ## Data Source
 The data is sourced from Wikipedia's list of largest companies in the US.
+## Acknowledgements
+Thanks to Wikipedia for providing the data.
+Inspired by various web scraping tutorials and projects.
